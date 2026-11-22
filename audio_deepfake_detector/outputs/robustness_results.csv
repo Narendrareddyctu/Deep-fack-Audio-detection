@@ -1,0 +1,11 @@
+condition,accuracy,f1_score
+clean,1.0,1.0
+noise_20dB,1.0,1.0
+noise_10dB,0.9467,0.9459
+noise_5dB,0.8533,0.8533
+reverb,0.9467,0.9459
+telephone_band,0.9867,0.9867
+resample_8k,0.9867,0.9867
+mp3_128k,1.0,1.0
+mp3_64k,1.0,1.0
+mp3_32k,0.5867,0.699
